@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sqaarf
-- 👀 I’m interested in Embedded Systems and Python
+- 👀 I’m interested in Embedded Systems and Web Scrapping
 - 🌱 I’m currently learning Python/Java and Web Developement
 - 📫 How to reach me mrscarf19@gmail.com or @Sqaarf on Twitter
 
