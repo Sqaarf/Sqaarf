@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sqaarf
 - 👀 I’m interested in Embedded Systems and Android Programming
-- 🌱 I’m currently learning Python/Kotlin and C for microcontrollers
+- 🌱 I’m currently learning Python/Kotlin and C/C++ for microcontrollers
 - 📫 How to reach me mrscarf19@gmail.com or @Sqaarf on Twitter
 
 <!---
