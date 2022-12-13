@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sqaarf
-- 👀 I’m interested in DevOps, Embedded Systems and Linux drivers
+- 👀 I’m interested in Autpmation, Embedded Systems and Linux drivers
 - 🌱 I’m currently learning Python/Rust and C/C++ for microcontrollers
 - 📫 How to reach me mrscarf19@gmail.com or @Sqaarf on Twitter
 
